@@ -1,1 +1,2 @@
 this is a test line in the file mars.txt.
+this is a second line for testing.
